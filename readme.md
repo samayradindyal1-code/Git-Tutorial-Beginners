@@ -1,7 +1,4 @@
 # The best github repo out there
-This is readme
+This will help you to understand and manage github
 
 Thank You!
-
-# Summary 
-Its a nice repo 
